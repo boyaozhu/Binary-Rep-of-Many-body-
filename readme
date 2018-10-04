@@ -1,1 +1,4 @@
-Bye
+Develop general routines for handlding a single-particle basis
+Set up binary representation of many-body Slater determinants
+Eveluate the matrix elements of a generic Hamiltonian containing up to two-body interactions, and use the result to set up the Hamiltonian matrix
+
